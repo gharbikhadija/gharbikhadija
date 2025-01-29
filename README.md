@@ -13,9 +13,8 @@
       <ul>
         <li>🔭 I’m currently working on <strong>Personal Projects</strong></li>
         <li>🌱 I’m also learning <strong>Web scraping & Analysis in Python</strong></li>
-        <li>👨‍💻 Most of my projects are here <a href="https://github.com/elyesgabsi031?tab=repositories">My Portfolio</a></li>
-        <li>📫 How to reach me: <strong>elyesgabsi031@gmail.com</strong></li>
-        <li>⚡ Fun fact: <strong>My projects look better in real life 😆</strong></li>
+        <li>👨‍💻 Most of my projects are here <a href="https://github.com/gharbikhadija?tab=repositories">My Portfolio</a></li>
+        <li>📫 How to reach me: <strong>gharbikhadija112@gmail.com</strong></li>
       </ul>
     </td>
     <td>

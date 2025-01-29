@@ -11,10 +11,8 @@
   <tr>
     <td>
       <ul>
-        
         <li>👨‍💻 Most of my projects are here <a href="https://github.com/gharbikhadija?tab=repositories">My Portfolio</a></li>
         <li>📫 How to reach me: <strong>gharbikhadija112@gmail.com</strong></li>
-      
       </ul>
     </td>
     <td>

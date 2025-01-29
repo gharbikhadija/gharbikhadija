@@ -4,16 +4,17 @@
 <h3 align="center">A junior Data Analyst from France</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=elyesgabsi031&label=Profile%20views&color=0e75b6&style=flat" alt="elyesgabsi031" />
+  <img src="https://komarev.com/ghpvc/?username=elyesgabsi031&label=Profile%20views&color=0e75b6&style=flat" alt="gharbikhadija" />
 </p>
 
 <table>
   <tr>
     <td>
       <ul>
-       
+        
         <li>👨‍💻 Most of my projects are here <a href="https://github.com/gharbikhadija?tab=repositories">My Portfolio</a></li>
         <li>📫 How to reach me: <strong>gharbikhadija112@gmail.com</strong></li>
+      
       </ul>
     </td>
     <td>
@@ -26,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elyes gabsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elyes gabsi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khadija-gharbi-74a256223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khadija gharbi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
